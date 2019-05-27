@@ -1,0 +1,4 @@
+
+      
+    lt-proc -w '/home/apertium/source/apertium-fra/fra.automorf.bin' | cg-proc -w '/home/apertium/source/apertium-fra/fra.rlx.bin' | apertium-tagger -g '/home/apertium/source/apertium-fra/fra.prob' 
+  

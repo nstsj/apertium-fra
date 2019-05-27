@@ -1,0 +1,4 @@
+
+      
+    lt-proc -w '/home/apertium/source/apertium-fra/fra.automorf.bin' | cg-conv -a -l| vislcg3 --trace -g '/home/apertium/source/apertium-fra/apertium-fra.fra.rlx' 
+  
